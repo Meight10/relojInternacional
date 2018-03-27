@@ -29,7 +29,7 @@
         android:id="@+id/view_linea_horizontal"
         android:layout_width="wrap_content"
         android:layout_height="2dp"
-        android:background="#96a4ba"
+        android:background="#000"
         android:layout_margin="10dp"
         android:layout_below="@id/text_ciudad_principal"/>
     <!-- Linea Vertical -->
@@ -38,7 +38,7 @@
         android:layout_width="2dp"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:background="#96a4ba"
+        android:background="#000"
         android:layout_marginTop="140dp"
         android:layout_marginBottom="300dp"/>
 
